@@ -1,2 +1,6 @@
 devdevdevdevdevdev
+<<<<<<< HEAD
 fofofofofofofofofo
+=======
+mymymymymymymymymy
+>>>>>>> 1ec148a (Dev change)
