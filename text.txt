@@ -3,4 +3,9 @@ Hello User
 C++
 branch
 not normal
+<<<<<<< HEAD
 lolololo
+=======
+hello
+llolollolol
+>>>>>>> dev

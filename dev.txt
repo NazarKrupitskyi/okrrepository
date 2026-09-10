@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello Developer.
 Hello User.
 Hello Mother.
+=======
+devdevdevdevdevdev
+fofofofofofofofofo
+tytytytytyttytyyty
+>>>>>>> dev
