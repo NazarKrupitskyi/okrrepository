@@ -5,6 +5,5 @@ Hello Mother.
 =======
 devdevdevdevdevdev
 fofofofofofofofofo
-tytytytytyttytyyty
 >>>>>>> dev
 fggffg
