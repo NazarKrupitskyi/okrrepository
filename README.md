@@ -1,4 +1,3 @@
 Короче є dev.txt, index.html, text.txt.
 TestRep
-NEW STROKA
-khkjkj
+
